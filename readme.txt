@@ -1,4 +1,4 @@
-=== Return to login fix ===
+=== Dicm.dk - Return to login fix ===
 Contributors: dicm.dk
 Tags: performance,login,memory
 Tested up to: 4.1
