@@ -1,7 +1,7 @@
 === Return to login fix ===
 Contributors: dicm.dk
 Tags: performance,login,memory
-Tested up to: 3.5.1
+Tested up to: 4.1
 Stable tag: trunk
 Requires at least: 3.0
 
